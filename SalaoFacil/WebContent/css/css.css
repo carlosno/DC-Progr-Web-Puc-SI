@@ -1,0 +1,48 @@
+body {
+	background-color: #white
+}
+
+#centro {
+	margin: 0 auto;
+	width: 900px;
+	background-color: white;
+}
+
+#cabeçalho {
+	width: 100%;
+	height: 70px;
+	background-color: white;
+	border: -color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#menu {
+	width: 100%;
+	height: 30px;
+	background-color: #ffd800;
+	border: -color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#menu1 {
+	width: 240px;
+	height: 800px;
+	float: left;
+	background-color: #ffd800;
+	border: -color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#conteudo {
+	width: 649px;
+	height: 790px;
+	float: left;
+	background-color: white;
+	padding: 5px;
+	border: -color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+}
